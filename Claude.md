@@ -1,4 +1,5 @@
-
+https://www.youtube.com/watch?v=jmHBMtpR36M
+https://www.youtube.com/watch?v=1-x-QzNjFHQ
 # user
 
 ## plan
@@ -26,3 +27,4 @@ task
 
 
 https://www.reddit.com/r/ClaudeAI/comments/1mecx5t/how_we_structure_our_claudemd_file_and_why/
+https://medium.com/@shivang.tripathii/how-i-use-claude-code-to-maximize-productivity-c853104804d6
